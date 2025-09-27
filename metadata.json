@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Token Sniper",
+  "description": "A simulated Telegram application that detects BSC token contract addresses from a mock channel, allows for simulated 'sniping' of the token, and provides a portfolio to track, manage, and analyze these tokens using AI.",
+  "requestFramePermissions": []
+}
